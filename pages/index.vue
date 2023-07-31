@@ -14,7 +14,7 @@
       <span class="frame375812margin20-text">
         <span class="frame375812margin20-text001">
           프렌즈 테스터
-          <span v-html="rawrq3w"></span>
+          <span v-html="raw5ucc"></span>
         </span>
         <span>모집</span>
       </span>
@@ -22,12 +22,12 @@
         <span>
           <span>
             프렌즈 테스터를 위한
-            <span v-html="raws5z2"></span>
+            <span v-html="rawbymk"></span>
           </span>
           <br />
           <span>
             특별 혜택 3가지 💖
-            <span v-html="rawmrp9"></span>
+            <span v-html="rawj1lh"></span>
           </span>
         </span>
       </span>
@@ -37,25 +37,25 @@
       <span class="frame375812margin20-text010">
         <span>
           대상ㅣ
-          <span v-html="rawom75"></span>
+          <span v-html="rawdbz2"></span>
         </span>
       </span>
       <span class="frame375812margin20-text012">
         <span>
           모집 기간ㅣ
-          <span v-html="raw2hzi"></span>
+          <span v-html="raw66bn"></span>
         </span>
       </span>
       <span class="frame375812margin20-text014">
         <span>
           베타 오픈ㅣ
-          <span v-html="rawe3oq"></span>
+          <span v-html="rawyqf1"></span>
         </span>
       </span>
       <span class="frame375812margin20-text016">
         <span>
           모집 인원ㅣ
-          <span v-html="rawo4q9"></span>
+          <span v-html="raw75zh"></span>
         </span>
       </span>
       <span class="frame375812margin20-text018">
@@ -72,7 +72,7 @@
       <span class="frame375812margin20-text024">
         <span>
           9월 초 오픈 예정
-          <span v-html="rawmcpf"></span>
+          <span v-html="rawc4rt"></span>
         </span>
       </span>
       <span class="frame375812margin20-text026"><span>10,000명</span></span>
@@ -136,18 +136,18 @@
       <span class="frame375812margin20-text030">
         <span class="frame375812margin20-text031">
           *
-          <span v-html="rawup1g"></span>
+          <span v-html="rawzyal"></span>
         </span>
         <span class="frame375812margin20-text032">프렌즈 테스터</span>
         <span class="frame375812margin20-text033">
           는
-          <span v-html="raw4xi6"></span>
+          <span v-html="raw2d1d"></span>
         </span>
         <span class="frame375812margin20-text034">playto Close Beta 버전</span>
         <span>
           <span>
             을
-            <span v-html="rawk480"></span>
+            <span v-html="raw0cl7"></span>
           </span>
           <br />
           <span>가장 먼저 체험하고 사용 경험을 나누는 유저 입니다.</span>
@@ -227,7 +227,7 @@
             <br />
             <span>
               럭키드로우 당첨 1:1 대화
-              <span v-html="rawmilq"></span>
+              <span v-html="rawi1e0"></span>
             </span>
           </span>
         </span>
@@ -274,7 +274,7 @@
             <span class="frame375812margin20-text060">
               <span>
                 playto
-                <span v-html="rawz0pr"></span>
+                <span v-html="rawdg8x"></span>
               </span>
             </span>
           </div>
@@ -282,7 +282,7 @@
             <span class="frame375812margin20-text062">
               <span>
                 only
-                <span v-html="rawaq01"></span>
+                <span v-html="rawhney"></span>
               </span>
             </span>
           </div>
@@ -310,7 +310,7 @@
           <span>
             <span>
               프렌즈 테스터를 위한 리미티드
-              <span v-html="raw8khp"></span>
+              <span v-html="rawpa3q"></span>
             </span>
             <br />
             <span>아이템 제공</span>
@@ -512,21 +512,21 @@ export default {
   name: 'Frame375812margin20',
   data() {
     return {
-      rawrq3w: ' ',
-      raws5z2: ' ',
-      rawmrp9: ' ',
-      rawom75: ' ',
-      raw2hzi: ' ',
-      rawe3oq: ' ',
-      rawo4q9: ' ',
-      rawmcpf: ' ',
-      rawup1g: ' ',
-      raw4xi6: ' ',
-      rawk480: ' ',
-      rawmilq: ' ',
-      rawz0pr: ' ',
-      rawaq01: ' ',
-      raw8khp: ' ',
+      raw5ucc: ' ',
+      rawbymk: ' ',
+      rawj1lh: ' ',
+      rawdbz2: ' ',
+      raw66bn: ' ',
+      rawyqf1: ' ',
+      raw75zh: ' ',
+      rawc4rt: ' ',
+      rawzyal: ' ',
+      raw2d1d: ' ',
+      raw0cl7: ' ',
+      rawi1e0: ' ',
+      rawdg8x: ' ',
+      rawhney: ' ',
+      rawpa3q: ' ',
     }
   },
   head: {
